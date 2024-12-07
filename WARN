@@ -1,5 +1,5 @@
 game.StarterGui:SetCore("SendNotification", {
     Title = "WARN";
-    Text = "This script only works in <Sea 3>";
+    Text = "This script cannot work in this server!";
     Duration = 5;
 })
